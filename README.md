@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Faria Gul 👋
+A passionate Frontend Developer | Aspiring Full Stack Developer
 
-<!--
-**fariagul20/fariagul20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack:
+- HTML, CSS, JavaScript, React
+- Bootstrap, Tailwind
+- Git & GitHub
 
-Here are some ideas to get you started:
+## 📈 Current Focus:
+- Learning backend development (Node.js, Express)
+- Final Year Project: PatientPulse (Virtual Consultant System)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me:
+- LinkedIn: www.linkedin.com/in/faria-gul-4ab660277
+- Email: fariagul987@gmail.com
